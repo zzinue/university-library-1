@@ -35,7 +35,7 @@ const BookCard = ({
                 height={18}
                 className="object-contain"
               />
-              <p className="text-light-100">11 days left to return</p>
+              <p className="text-light-100">10 days left to return</p>
             </div>
 
             <Button className="book-btn">Download receipt</Button>

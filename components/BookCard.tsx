@@ -38,7 +38,7 @@ const BookCard = ({
               <p className="text-light-100">now 10  days left from kde</p>
             </div>
 
-            <Button className="book-btn">Download receipt</Button>
+            <Button className="book-btn">Download receipts</Button>
           </div>
         )}
       </Link>
